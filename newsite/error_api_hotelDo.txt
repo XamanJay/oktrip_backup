@@ -1,0 +1,708 @@
+---- Inicio de log errores ---- 
+
+
+Error del dia 2019/06/26
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't find <definitions> in 'http://xml.e-tsw.com/AffiliateService/V1.0/AffiliateService.svc?Wsdl' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:16
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(16): SoapClient->SoapClient('http://xml.e-ts...', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(154): soapController->__construct()
+#2 [internal function]: HotelsController->getSearch('es')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/search...')
+#5 {main}
+Error del dia 2019/06/26
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't find <definitions> in 'http://xml.e-tsw.com/AffiliateService/V1.0/AffiliateService.svc?Wsdl' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:16
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(16): SoapClient->SoapClient('http://xml.e-ts...', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(154): soapController->__construct()
+#2 [internal function]: HotelsController->getSearch('es')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/search...')
+#5 {main}
+Error del dia 2019/06/26
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't find <definitions> in 'http://xml.e-tsw.com/AffiliateService/V1.0/AffiliateService.svc?Wsdl' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:16
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(16): SoapClient->SoapClient('http://xml.e-ts...', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(154): soapController->__construct()
+#2 [internal function]: HotelsController->getSearch('es')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/search...')
+#5 {main}
+Error del dia 2019/06/26
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't find <definitions> in 'http://xml.e-tsw.com/AffiliateService/V1.0/AffiliateService.svc?Wsdl' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:16
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(16): SoapClient->SoapClient('http://xml.e-ts...', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(154): soapController->__construct()
+#2 [internal function]: HotelsController->getSearch('es')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/search...')
+#5 {main}
+Error del dia 2019/06/26
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't find <definitions> in 'http://xml.e-tsw.com/AffiliateService/V1.0/AffiliateService.svc?Wsdl' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:16
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(16): SoapClient->SoapClient('http://xml.e-ts...', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(154): soapController->__construct()
+#2 [internal function]: HotelsController->getSearch('es')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/search...')
+#5 {main}
+Error del dia 2019/06/26
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't find <definitions> in 'http://xml.e-tsw.com/AffiliateService/V1.0/AffiliateService.svc?Wsdl' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:16
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(16): SoapClient->SoapClient('http://xml.e-ts...', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(154): soapController->__construct()
+#2 [internal function]: HotelsController->getSearch('es')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/search...')
+#5 {main}
+Error del dia 2019/06/26
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't find <definitions> in 'http://xml.e-tsw.com/AffiliateService/V1.0/AffiliateService.svc?Wsdl' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:16
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(16): SoapClient->SoapClient('http://xml.e-ts...', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(154): soapController->__construct()
+#2 [internal function]: HotelsController->getSearch('es')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/search...')
+#5 {main}
+Error del dia 2019/06/26
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't find <definitions> in 'http://xml.e-tsw.com/AffiliateService/V1.0/AffiliateService.svc?Wsdl' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:16
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(16): SoapClient->SoapClient('http://xml.e-ts...', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(154): soapController->__construct()
+#2 [internal function]: HotelsController->getSearch('es')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/search...')
+#5 {main}
+Error del dia 2019/06/26
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't find <definitions> in 'http://xml.e-tsw.com/AffiliateService/V1.0/AffiliateService.svc?Wsdl' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:16
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(16): SoapClient->SoapClient('http://xml.e-ts...', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(154): soapController->__construct()
+#2 [internal function]: HotelsController->getSearch('es')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/search...')
+#5 {main}
+Error del dia 2019/06/26
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't find <definitions> in 'http://xml.e-tsw.com/AffiliateService/V1.0/AffiliateService.svc?Wsdl' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:16
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(16): SoapClient->SoapClient('http://xml.e-ts...', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(154): soapController->__construct()
+#2 [internal function]: HotelsController->getSearch('es')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/search...')
+#5 {main}
+Error del dia 2019/06/26
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't find <definitions> in 'http://xml.e-tsw.com/AffiliateService/V1.0/AffiliateService.svc?Wsdl' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:16
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(16): SoapClient->SoapClient('http://xml.e-ts...', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(154): soapController->__construct()
+#2 [internal function]: HotelsController->getSearch('es')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/search...')
+#5 {main}
+Error del dia 2019/06/26
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't find <definitions> in 'http://xml.e-tsw.com/AffiliateService/V1.0/AffiliateService.svc?Wsdl' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:16
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(16): SoapClient->SoapClient('http://xml.e-ts...', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(154): soapController->__construct()
+#2 [internal function]: HotelsController->getSearch('es')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/search...')
+#5 {main}
+Error del dia 2019/06/26
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't find <definitions> in 'http://xml.e-tsw.com/AffiliateService/V1.0/AffiliateService.svc?Wsdl' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:16
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(16): SoapClient->SoapClient('http://xml.e-ts...', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(154): soapController->__construct()
+#2 [internal function]: HotelsController->getSearch('es')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/search...')
+#5 {main}
+Error del dia 2019/06/26
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't find <definitions> in 'http://xml.e-tsw.com/AffiliateService/V1.0/AffiliateService.svc?Wsdl' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:16
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(16): SoapClient->SoapClient('http://xml.e-ts...', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(154): soapController->__construct()
+#2 [internal function]: HotelsController->getSearch('es')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/search...')
+#5 {main}
+Error del dia 2019/06/26
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't find <definitions> in 'http://xml.e-tsw.com/AffiliateService/V1.0/AffiliateService.svc?Wsdl' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:16
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(16): SoapClient->SoapClient('http://xml.e-ts...', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(154): soapController->__construct()
+#2 [internal function]: HotelsController->getSearch('es')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/search...')
+#5 {main}
+Error del dia 2019/06/26
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't find <definitions> in 'http://xml.e-tsw.com/AffiliateService/V1.0/AffiliateService.svc?Wsdl' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:16
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(16): SoapClient->SoapClient('http://xml.e-ts...', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(154): soapController->__construct()
+#2 [internal function]: HotelsController->getSearch('es')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/search...')
+#5 {main}
+Error del dia 2019/06/26
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't find <definitions> in 'http://xml.e-tsw.com/AffiliateService/V1.0/AffiliateService.svc?Wsdl' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:16
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(16): SoapClient->SoapClient('http://xml.e-ts...', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(154): soapController->__construct()
+#2 [internal function]: HotelsController->getSearch('es')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/search...')
+#5 {main}
+Error del dia 2019/06/26
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't find <definitions> in 'http://xml.e-tsw.com/AffiliateService/V1.0/AffiliateService.svc?Wsdl' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:16
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(16): SoapClient->SoapClient('http://xml.e-ts...', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(154): soapController->__construct()
+#2 [internal function]: HotelsController->getSearch('es')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/search...')
+#5 {main}
+Error del dia 2019/06/26
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't find <definitions> in 'http://xml.e-tsw.com/AffiliateService/V1.0/AffiliateService.svc?Wsdl' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:16
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(16): SoapClient->SoapClient('http://xml.e-ts...', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(154): soapController->__construct()
+#2 [internal function]: HotelsController->getSearch('es')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/search...')
+#5 {main}
+Error del dia 2019/06/26
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't find <definitions> in 'http://xml.e-tsw.com/AffiliateService/V1.0/AffiliateService.svc?Wsdl' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:16
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(16): SoapClient->SoapClient('http://xml.e-ts...', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(154): soapController->__construct()
+#2 [internal function]: HotelsController->getSearch('es')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/search...')
+#5 {main}
+Error del dia 2019/06/26
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't find <definitions> in 'http://xml.e-tsw.com/AffiliateService/V1.0/AffiliateService.svc?Wsdl' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:16
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(16): SoapClient->SoapClient('http://xml.e-ts...', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(154): soapController->__construct()
+#2 [internal function]: HotelsController->getSearch('es')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/search...')
+#5 {main}
+Error del dia 2019/06/26
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't find <definitions> in 'http://xml.e-tsw.com/AffiliateService/V1.0/AffiliateService.svc?Wsdl' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:16
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(16): SoapClient->SoapClient('http://xml.e-ts...', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(154): soapController->__construct()
+#2 [internal function]: HotelsController->getSearch('es')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/search...')
+#5 {main}
+Error del dia 2019/06/26
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't find <definitions> in 'http://xml.e-tsw.com/AffiliateService/V1.0/AffiliateService.svc?Wsdl' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:16
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(16): SoapClient->SoapClient('http://xml.e-ts...', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(451): soapController->__construct()
+#2 [internal function]: HotelsController->getDetails('en')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/detail...')
+#5 {main}
+Error del dia 2019/06/26
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't find <definitions> in 'http://xml.e-tsw.com/AffiliateService/V1.0/AffiliateService.svc?Wsdl' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:16
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(16): SoapClient->SoapClient('http://xml.e-ts...', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(154): soapController->__construct()
+#2 [internal function]: HotelsController->getSearch('es')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/search...')
+#5 {main}
+Error del dia 2019/06/26
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't find <definitions> in 'http://xml.e-tsw.com/AffiliateService/V1.0/AffiliateService.svc?Wsdl' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:16
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(16): SoapClient->SoapClient('http://xml.e-ts...', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(154): soapController->__construct()
+#2 [internal function]: HotelsController->getSearch('es')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/search...')
+#5 {main}
+Error del dia 2019/06/26
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't find <definitions> in 'http://xml.e-tsw.com/AffiliateService/V1.0/AffiliateService.svc?Wsdl' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:16
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(16): SoapClient->SoapClient('http://xml.e-ts...', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(154): soapController->__construct()
+#2 [internal function]: HotelsController->getSearch('es')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/search...')
+#5 {main}
+Error del dia 2019/06/26
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't find <definitions> in 'http://xml.e-tsw.com/AffiliateService/V1.0/AffiliateService.svc?Wsdl' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:16
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(16): SoapClient->SoapClient('http://xml.e-ts...', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(154): soapController->__construct()
+#2 [internal function]: HotelsController->getSearch('es')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/search...')
+#5 {main}
+Error del dia 2019/06/26
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't find <definitions> in 'http://xml.e-tsw.com/AffiliateService/V1.0/AffiliateService.svc?Wsdl' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:16
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(16): SoapClient->SoapClient('http://xml.e-ts...', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(154): soapController->__construct()
+#2 [internal function]: HotelsController->getSearch('es')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/search...')
+#5 {main}
+Error del dia 2019/06/26
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't find <definitions> in 'http://xml.e-tsw.com/AffiliateService/V1.0/AffiliateService.svc?Wsdl' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:16
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(16): SoapClient->SoapClient('http://xml.e-ts...', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(154): soapController->__construct()
+#2 [internal function]: HotelsController->getSearch('es')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/search...')
+#5 {main}
+Error del dia 2019/06/26
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't find <definitions> in 'http://xml.e-tsw.com/AffiliateService/V1.0/AffiliateService.svc?Wsdl' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:16
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(16): SoapClient->SoapClient('http://xml.e-ts...', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(154): soapController->__construct()
+#2 [internal function]: HotelsController->getSearch('es')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/search...')
+#5 {main}
+Error del dia 2019/06/26
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't find <definitions> in 'http://xml.e-tsw.com/AffiliateService/V1.0/AffiliateService.svc?Wsdl' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:16
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(16): SoapClient->SoapClient('http://xml.e-ts...', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(154): soapController->__construct()
+#2 [internal function]: HotelsController->getSearch('es')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/search...')
+#5 {main}
+Error del dia 2019/06/26
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't find <definitions> in 'http://xml.e-tsw.com/AffiliateService/V1.0/AffiliateService.svc?Wsdl' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:16
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(16): SoapClient->SoapClient('http://xml.e-ts...', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(154): soapController->__construct()
+#2 [internal function]: HotelsController->getSearch('es')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/search...')
+#5 {main}
+Error del dia 2019/06/26
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't find <definitions> in 'http://xml.e-tsw.com/AffiliateService/V1.0/AffiliateService.svc?Wsdl' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:16
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(16): SoapClient->SoapClient('http://xml.e-ts...', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(451): soapController->__construct()
+#2 [internal function]: HotelsController->getDetails('es')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/detail...')
+#5 {main}
+Error del dia 2019/06/26
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't find <definitions> in 'http://xml.e-tsw.com/AffiliateService/V1.0/AffiliateService.svc?Wsdl' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:16
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(16): SoapClient->SoapClient('http://xml.e-ts...', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(451): soapController->__construct()
+#2 [internal function]: HotelsController->getDetails('en')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/detail...')
+#5 {main}
+Error del dia 2019/06/26
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't find <definitions> in 'http://xml.e-tsw.com/AffiliateService/V1.0/AffiliateService.svc?Wsdl' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:16
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(16): SoapClient->SoapClient('http://xml.e-ts...', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(154): soapController->__construct()
+#2 [internal function]: HotelsController->getSearch('es')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/search...')
+#5 {main}
+Error del dia 2019/06/26
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't find <definitions> in 'http://xml.e-tsw.com/AffiliateService/V1.0/AffiliateService.svc?Wsdl' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:16
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(16): SoapClient->SoapClient('http://xml.e-ts...', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(154): soapController->__construct()
+#2 [internal function]: HotelsController->getSearch('es')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/search...')
+#5 {main}
+Error del dia 2019/06/26
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't find <definitions> in 'http://xml.e-tsw.com/AffiliateService/V1.0/AffiliateService.svc?Wsdl' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:16
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(16): SoapClient->SoapClient('http://xml.e-ts...', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(154): soapController->__construct()
+#2 [internal function]: HotelsController->getSearch('es')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/search...')
+#5 {main}
+Error del dia 2019/06/26
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't find <definitions> in 'http://xml.e-tsw.com/AffiliateService/V1.0/AffiliateService.svc?Wsdl' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:16
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(16): SoapClient->SoapClient('http://xml.e-ts...', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(154): soapController->__construct()
+#2 [internal function]: HotelsController->getSearch('es')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/search...')
+#5 {main}
+Error del dia 2019/06/26
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't find <definitions> in 'http://xml.e-tsw.com/AffiliateService/V1.0/AffiliateService.svc?Wsdl' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:16
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(16): SoapClient->SoapClient('http://xml.e-ts...', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(154): soapController->__construct()
+#2 [internal function]: HotelsController->getSearch('es')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/search...')
+#5 {main}
+Error del dia 2019/06/26
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't find <definitions> in 'http://xml.e-tsw.com/AffiliateService/V1.0/AffiliateService.svc?singleWsdlWsdl' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:16
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(16): SoapClient->SoapClient('http://xml.e-ts...', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(154): soapController->__construct()
+#2 [internal function]: HotelsController->getSearch('es')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/search...')
+#5 {main}
+Error del dia 2019/06/26
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't find <definitions> in 'http://xml.e-tsw.com/AffiliateService/V1.0/AffiliateService.svc?singleWsdlWsdl' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:16
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(16): SoapClient->SoapClient('http://xml.e-ts...', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(154): soapController->__construct()
+#2 [internal function]: HotelsController->getSearch('es')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/search...')
+#5 {main}
+Error del dia 2019/06/26
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't find <definitions> in 'http://xml.e-tsw.com/AffiliateService/V1.0/AffiliateService.svc?singleWsdlWsdl' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:16
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(16): SoapClient->SoapClient('http://xml.e-ts...', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(154): soapController->__construct()
+#2 [internal function]: HotelsController->getSearch('es')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/search...')
+#5 {main}
+Error del dia 2019/06/26
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't find <definitions> in 'http://xml.e-tsw.com/AffiliateService/V1.0/AffiliateService.svc?singleWsdlWsdl' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:16
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(16): SoapClient->SoapClient('http://xml.e-ts...', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(154): soapController->__construct()
+#2 [internal function]: HotelsController->getSearch('es')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/search...')
+#5 {main}
+Error del dia 2019/06/26
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't find <definitions> in 'http://xml.e-tsw.com/AffiliateService/V1.0/AffiliateService.svc?singleWsdlWsdl' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:16
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(16): SoapClient->SoapClient('http://xml.e-ts...', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(451): soapController->__construct()
+#2 [internal function]: HotelsController->getDetails('en')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/detail...')
+#5 {main}
+Error del dia 2019/06/26
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't find <definitions> in 'http://xml.e-tsw.com/AffiliateService/V1.0/AffiliateService.svc?singleWsdlWsdl' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:16
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(16): SoapClient->SoapClient('http://xml.e-ts...', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(451): soapController->__construct()
+#2 [internal function]: HotelsController->getDetails('en')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/detail...')
+#5 {main}
+Error del dia 2019/06/26
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't find <definitions> in 'http://xml.e-tsw.com/AffiliateService/V1.0/AffiliateService.svc?singleWsdlWsdl' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:16
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(16): SoapClient->SoapClient('http://xml.e-ts...', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(154): soapController->__construct()
+#2 [internal function]: HotelsController->getSearch('es')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/search...')
+#5 {main}
+Error del dia 2019/06/26
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't find <definitions> in 'http://xml.e-tsw.com/AffiliateService/V1.0/AffiliateService.svc?singleWsdlWsdl' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:16
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(16): SoapClient->SoapClient('http://xml.e-ts...', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(154): soapController->__construct()
+#2 [internal function]: HotelsController->getSearch('es')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/search...')
+#5 {main}
+Error del dia 2019/06/26
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't find <definitions> in 'http://xml.e-tsw.com/AffiliateService/V1.0/AffiliateService.svc?singleWsdlWsdl' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:16
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(16): SoapClient->SoapClient('http://xml.e-ts...', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(154): soapController->__construct()
+#2 [internal function]: HotelsController->getSearch('es')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/search...')
+#5 {main}
+Error del dia 2019/06/26
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't find <definitions> in 'http://xml.e-tsw.com/AffiliateService/V1.0/AffiliateService.svc?singleWsdlWsdl' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:16
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(16): SoapClient->SoapClient('http://xml.e-ts...', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(154): soapController->__construct()
+#2 [internal function]: HotelsController->getSearch('es')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/search...')
+#5 {main}
+Error del dia 2019/06/26
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't find <definitions> in 'http://xml.e-tsw.com/AffiliateService/V1.0/AffiliateService.svc?singleWsdlWsdl' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:16
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(16): SoapClient->SoapClient('http://xml.e-ts...', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(154): soapController->__construct()
+#2 [internal function]: HotelsController->getSearch('es')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/search...')
+#5 {main}
+Error del dia 2019/06/26
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't find <definitions> in 'http://xml.e-tsw.com/AffiliateService/V1.0/AffiliateService.svc?singleWsdlWsdl' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:16
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(16): SoapClient->SoapClient('http://xml.e-ts...', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(154): soapController->__construct()
+#2 [internal function]: HotelsController->getSearch('es')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/search...')
+#5 {main}
+Error del dia 2019/06/26
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't find <definitions> in 'http://xml.e-tsw.com/AffiliateService/V1.0/AffiliateService.svc?singleWsdlWsdl' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:16
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(16): SoapClient->SoapClient('http://xml.e-ts...', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(154): soapController->__construct()
+#2 [internal function]: HotelsController->getSearch('es')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/search...')
+#5 {main}
+Error del dia 2019/06/26
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't find <definitions> in 'http://xml.e-tsw.com/AffiliateService/V1.0/AffiliateService.svc?Wsdl' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:12
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(12): SoapClient->SoapClient('http://xml.e-ts...', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(451): soapController->__construct()
+#2 [internal function]: HotelsController->getDetails('es')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/detail...')
+#5 {main}
+Error del dia 2019-06-26 15:57:20
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't find <definitions> in 'http://xml.e-tsw.com/AffiliateService/V1.0/AffiliateService.svc?Wsdl' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:12
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(12): SoapClient->SoapClient('http://xml.e-ts...', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(154): soapController->__construct()
+#2 [internal function]: HotelsController->getSearch('es')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/search...')
+#5 {main}
+Error del dia 2019-06-26 16:05:25
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't load from 'AffiliateService.wsdl' : failed to load external entity "AffiliateService.wsdl"
+ in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:12
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(12): SoapClient->SoapClient('AffiliateServic...', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(154): soapController->__construct()
+#2 [internal function]: HotelsController->getSearch('es')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/search...')
+#5 {main}
+Error del dia 2019-06-26 16:05:27
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't load from 'AffiliateService.wsdl' : failed to load external entity "AffiliateService.wsdl"
+ in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:12
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(12): SoapClient->SoapClient('AffiliateServic...', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(154): soapController->__construct()
+#2 [internal function]: HotelsController->getSearch('es')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/search...')
+#5 {main}
+Error del dia 2019-06-27 16:30:33
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://xml.e-tsw.com/AffiliateService/v1.0/AffiliateService.svc?xsd=xsd0' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:12
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(12): SoapClient->SoapClient('https://oktrip....', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(451): soapController->__construct()
+#2 [internal function]: HotelsController->getDetails('en')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/detail...')
+#5 {main}
+Error del dia 2019-06-27 16:37:12
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://xml.e-tsw.com/AffiliateService/v1.0/AffiliateService.svc?xsd=xsd0' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:12
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(12): SoapClient->SoapClient('https://oktrip....', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(451): soapController->__construct()
+#2 [internal function]: HotelsController->getDetails('en')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/detail...')
+#5 {main}
+Error del dia 2019-06-27 17:25:46
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://xml.e-tsw.com/AffiliateService/v1.0/AffiliateService.svc?xsd=xsd0' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:12
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(12): SoapClient->SoapClient('https://oktrip....', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(451): soapController->__construct()
+#2 [internal function]: HotelsController->getDetails('es')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/detail...')
+#5 {main}
+Error del dia 2019-06-28 06:32:03
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://xml.e-tsw.com/AffiliateService/v1.0/AffiliateService.svc?xsd=xsd0' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:12
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(12): SoapClient->SoapClient('https://oktrip....', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(451): soapController->__construct()
+#2 [internal function]: HotelsController->getDetails('en')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/detail...')
+#5 {main}
+Error del dia 2019-06-28 06:36:33
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://xml.e-tsw.com/AffiliateService/v1.0/AffiliateService.svc?xsd=xsd0' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:12
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(12): SoapClient->SoapClient('https://oktrip....', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(451): soapController->__construct()
+#2 [internal function]: HotelsController->getDetails('en')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/detail...')
+#5 {main}
+Error del dia 2019-06-28 06:37:26
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://xml.e-tsw.com/AffiliateService/v1.0/AffiliateService.svc?xsd=xsd0' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:12
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(12): SoapClient->SoapClient('https://oktrip....', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(451): soapController->__construct()
+#2 [internal function]: HotelsController->getDetails('es')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/detail...')
+#5 {main}
+Error del dia 2019-06-28 06:37:26
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://xml.e-tsw.com/AffiliateService/v1.0/AffiliateService.svc?xsd=xsd0' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:12
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(12): SoapClient->SoapClient('https://oktrip....', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(451): soapController->__construct()
+#2 [internal function]: HotelsController->getDetails('es')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/detail...')
+#5 {main}
+Error del dia 2019-06-28 08:24:33
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://xml.e-tsw.com/AffiliateService/v1.0/AffiliateService.svc?xsd=xsd0' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:12
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(12): SoapClient->SoapClient('https://oktrip....', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(451): soapController->__construct()
+#2 [internal function]: HotelsController->getDetails('en')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/detail...')
+#5 {main}
+Error del dia 2019-06-28 08:33:33
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://xml.e-tsw.com/AffiliateService/v1.0/AffiliateService.svc?xsd=xsd0' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:12
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(12): SoapClient->SoapClient('https://oktrip....', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(451): soapController->__construct()
+#2 [internal function]: HotelsController->getDetails('en')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/detail...')
+#5 {main}
+Error del dia 2019-06-28 12:20:28
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://xml.e-tsw.com/AffiliateService/v1.0/AffiliateService.svc?xsd=xsd0' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:12
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(12): SoapClient->SoapClient('https://oktrip....', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(154): soapController->__construct()
+#2 [internal function]: HotelsController->getSearch('es')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/search...')
+#5 {main}
+Error del dia 2019-06-28 12:20:30
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://xml.e-tsw.com/AffiliateService/v1.0/AffiliateService.svc?xsd=xsd0' in /home/ooktrip/public_html/controllers/HotelDo/soapController.php:12
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelDo/soapController.php(12): SoapClient->SoapClient('https://oktrip....', Array)
+#1 /home/ooktrip/public_html/controllers/HotelsController.php(154): soapController->__construct()
+#2 [internal function]: HotelsController->getSearch('es')
+#3 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/index.php(88): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/search...')
+#5 {main}
+Error del dia 2020-03-24 06:53:07
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't load from 'https://oktrip.mx/doc/AffiliateService.wsdl' : failed to load external entity "https://oktrip.mx/doc/AffiliateService.wsdl"
+ in /home/ooktrip/public_html/newsite/controllers/HotelDo/soapController.php:12
+Stack trace:
+#0 /home/ooktrip/public_html/newsite/controllers/HotelDo/soapController.php(12): SoapClient->SoapClient('https://oktrip....', Array)
+#1 /home/ooktrip/public_html/newsite/controllers/HotelsController.php(154): soapController->__construct()
+#2 [internal function]: HotelsController->getSearch('en')
+#3 /home/ooktrip/public_html/newsite/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/newsite/index.php(91): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/search...')
+#5 {main}
+Error del dia 2020-05-04 08:06:09
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't load from 'https://oktrip.mx/doc/AffiliateService.wsdl' : failed to load external entity "https://oktrip.mx/doc/AffiliateService.wsdl"
+ in /home/ooktrip/public_html/newsite/controllers/HotelDo/soapController.php:12
+Stack trace:
+#0 /home/ooktrip/public_html/newsite/controllers/HotelDo/soapController.php(12): SoapClient->SoapClient('https://oktrip....', Array)
+#1 /home/ooktrip/public_html/newsite/controllers/HotelsController.php(154): soapController->__construct()
+#2 [internal function]: HotelsController->getSearch('es')
+#3 /home/ooktrip/public_html/newsite/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/newsite/index.php(91): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/search...')
+#5 {main}
+Error del dia 2020-05-04 08:08:25
+
+SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't load from 'https://oktrip.mx/doc/AffiliateService.wsdl' : failed to load external entity "https://oktrip.mx/doc/AffiliateService.wsdl"
+ in /home/ooktrip/public_html/newsite/controllers/HotelDo/soapController.php:12
+Stack trace:
+#0 /home/ooktrip/public_html/newsite/controllers/HotelDo/soapController.php(12): SoapClient->SoapClient('https://oktrip....', Array)
+#1 /home/ooktrip/public_html/newsite/controllers/HotelsController.php(154): soapController->__construct()
+#2 [internal function]: HotelsController->getSearch('es')
+#3 /home/ooktrip/public_html/newsite/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#4 /home/ooktrip/public_html/newsite/index.php(91): Phroute\Phroute\Dispatcher->dispatch('GET', '/hoteles/search...')
+#5 {main}

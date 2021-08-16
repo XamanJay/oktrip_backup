@@ -1,0 +1,31 @@
+{
+	"searcher": {
+		"kids": "Kids",
+		"adults": "Adults",
+		"ageKid": "Kid's age",
+		"age": "Age",
+		"room": "Room",
+		"rooms": "Rooms",
+		"MessagesValidation":
+		{
+			"from": "Arrival date is required",
+			"to": "Departure date is required",
+			"rooms": "Rooms is required",
+			"adults": ["'Adults' is required","Min: 1","Adults max: 3"],
+			"kids": ["'Kids' is required","Min: 1","Kids max: 3"],
+			"ages": ["'Age' is required","Min: 1","Max: 17"]
+		}
+	},
+	"contact":
+	{
+		"MessagesValidation":
+		{
+			"name": ["'Name' is required"],
+			"city": ["'City' is required"],
+			"country": ["'Country' is required"],
+			"email": ["'Email' is required", "Enter a valid email"],
+			"phone": ["'Phone' is required"],
+			"message": ["'Message' is required"]
+		}
+	}
+}

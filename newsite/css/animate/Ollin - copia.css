@@ -1,0 +1,112 @@
+@charset "utf-8";
+/* CSS Document */
+
+.MOVIMIENTO_IZQ_CRECIENDO {
+  animation-duration: 3s;
+  animation-name: ollin;
+ /* animation-delay: 2s; */
+  position: relative;
+  animation-timing-function: ease-in-out;
+}
+
+
+.MOVIMIENTO_CRECIENDO {
+ /* animation-delay: 2s; */
+  animation-duration: 4s;
+  animation-name: ollinzoom;
+  position: relative;
+  animation-timing-function: ease-in-out;
+}
+
+
+.MOVIMIENTO_DESCENDIENDO {
+ /* animation-delay: 2s; */
+  animation-duration: 3s;
+  animation-name: ollintop;
+  position: relative;
+  animation-timing-function: ease-in-out;
+}
+
+
+/*.MOVIMIENTO_IZQ_CRECIENDO_01 {
+  animation-duration: 2s;
+  animation-name: ollin;
+  animation-delay: 1s; 
+  position: relative;
+  animation-timing-function: ease-in-out;
+}
+*/
+
+
+
+@keyframes ollin {
+  from {
+    /*margin-left: -100%;*/
+    width: 1%; 
+     left: -800px;  
+  /*  top: 0px;*/
+  }
+
+  to {
+    /* margin-left: 0%; */
+    width: 100%;
+      left: 0px;
+    /*  top: 50px;*/
+  }
+}
+
+
+
+@keyframes ollinzoom {
+  from {
+    /*margin-left: -100%;*/
+    width: 0%; 
+    /* heigth: 0%; */
+ /*    left: -800px;  */
+  /*  top: 0px;*/
+  }
+
+  to {
+    /* margin-left: 0%; */
+    width: 91%;
+    /* height: 50% */
+      /* left: 0px; */
+    /*  top: 50px;*/
+  }
+}
+
+
+@keyframes ollintop {
+  from {
+    /*margin-left: -100%;*/
+   /* width: 0%; */
+    /* heigth: 0%; */
+ /*    left: -800px;  */
+    top: -800px;
+  }
+
+  to {
+    /* margin-left: 0%; */
+    /* width: 91%; */
+    /* height: 50% */
+      /* left: 0px; */
+      top: 0px;
+  }
+}
+
+/* @keyframes ollin_login {
+  0%   {background-color:red; left:0px; top:0px;}
+  25%  {background-color:yellow; left:200px; top:0px;}
+  50%  {background-color:blue; left:200px; top:200px;}
+  75%  {background-color:green; left:0px; top:200px;}
+}
+*/
+ 
+
+@keyframes movimien {
+    from { width: 1%; left:-800px   }
+    to { width: 100%; left:-0px }
+    
+    
+}
+

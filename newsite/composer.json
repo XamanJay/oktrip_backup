@@ -1,0 +1,6 @@
+{
+    "require": {
+        "phroute/phroute": "^2.1",
+        "google/recaptcha": "~1.1"
+    }
+}

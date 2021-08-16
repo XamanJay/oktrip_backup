@@ -1,0 +1,234 @@
+@charset "utf-8";
+/* CSS Document */
+
+.MOVIMIENTO_IZQ_CRECIENDO {
+  animation-duration: 3s;
+  animation-name: ollin;
+ /* animation-delay: 2s; */
+  position: relative;
+  animation-timing-function: ease-in-out;
+}
+
+
+.MOVIMIENTO_CRECIENDO {
+ /* animation-delay: 2s; */
+  animation-duration: 4s;
+  animation-name: ollinzoom;
+  position: relative;
+  animation-timing-function: ease-in-out;
+}
+
+
+.MOVIMIENTO_DESCENDIENDO {
+ /* animation-delay: 2s; */
+  animation-duration: 4s;
+  animation-name: ollintop;
+  position: relative;
+  animation-timing-function: ease-in-out;
+}
+
+
+
+
+
+
+/*.MOVIMIENTO_IZQ_CRECIENDO_01 {
+  animation-duration: 2s;
+  animation-name: ollin;
+  animation-delay: 1s;
+  position: relative;
+  animation-timing-function: ease-in-out;
+}
+*/
+
+
+
+@keyframes ollin {
+  from {
+    /*margin-left: -100%;*/
+    width: 1%;
+     left: -800px;
+  /*  top: 0px;*/
+  }
+
+  to {
+    /* margin-left: 0%; */
+    width: 100%;
+      left: 0px;
+    /*  top: 50px;*/
+  }
+}
+
+
+
+@keyframes ollinzoom {
+  from {
+    /*margin-left: -100%;*/
+    width: 0%;
+    /* heigth: 0%; */
+ /*    left: -800px;  */
+  /*  top: 0px;*/
+  }
+
+  to {
+    /* margin-left: 0%; */
+    width: 91%;
+    /* height: 50% */
+      /* left: 0px; */
+    /*  top: 50px;*/
+  }
+}
+
+
+@keyframes ollintop {
+  from {
+    /*margin-left: -100%;*/
+   /* width: 0%; */
+    /* heigth: 0%; */
+ /*    left: -800px;  */
+    top: -800px;
+  }
+
+  to {
+    /* margin-left: 0%; */
+    /* width: 91%; */
+    /* height: 50% */
+      /* left: 0px; */
+      top: 0px;
+  }
+}
+
+/* @keyframes ollin_login {
+  0%   {background-color:red; left:0px; top:0px;}
+  25%  {background-color:yellow; left:200px; top:0px;}
+  50%  {background-color:blue; left:200px; top:200px;}
+  75%  {background-color:green; left:0px; top:200px;}
+}
+*/
+
+
+@keyframes movimien {
+    from { width: 1%; left:-800px   }
+    to { width: 100%; left:-0px }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+/*Botones*/
+
+
+
+	.btn-group button {
+	  /*background-color: #4CAF50;  Green background */
+	  /*border: 1px  solid green; /* Green border */
+	  color: white; /* White text */
+	  padding: 10px 24px; /* Some padding */
+	  cursor: pointer; /* Pointer/hand icon */
+	  width: 100%; /* Set a width if needed */
+	  display: block; /* Make the buttons appear below each other */
+	  /*font-family:verdana ,arial, helvetica, sans-serif;*/
+	  font-family:Herculanum,serif;
+	  font-size: 15px;
+	  text-align:center;
+	  vertical-align:middle;
+	  border:thin groove rgba(57,163,208,1.00);
+	  border-radius: 5px 5px 5px 5px;
+     
+	}
+
+	.btn-group button:not(:last-child) {
+	  border-bottom: none; /* Prevent double borders */
+	}
+
+	/* Add a background color on hover */
+	.btn-group button:hover {
+	  background-color:lightcyan;
+	  color:aqua; 
+	}
+	
+	
+	.btn-nvo {
+	  background-color: #110102; 
+	  border: 1px solid green; /* Green border */
+	  color: red; /* White text */
+	  padding: 10px 24px; /* Some padding */
+	  cursor: pointer; /* Pointer/hand icon */
+	  width: 100%; /* Set a width if needed */
+	  display: block; /* Make the buttons appear below each other */
+	  font-family:verdana, arial, helvetica, sans-serif;
+	  font-size: 14px; 
+	  }
+	
+	.consolidado {
+	  
+	  background-color: darkgreen  ;
+	  border: 1px solid lawngreen ; 
+	  /*color: azure; 
+	  padding: 10px 24px; 
+	  cursor: pointer; 
+	  width: 100%; 
+	  display: block; 
+	  font-family:verdana, arial, helvetica, sans-serif;
+	  font-size: 8px; 
+	  text-align:center;
+	  vertical-align:middle;
+	  border:medium groove #99CCFF;*/
+	  }
+	  
+	.graficas  {
+	           background-color:cadetblue;
+	           border: 1px solid aqua ;  
+	     	   }
+
+    .mensuales {
+	           background-color:crimson;
+	           border: 1px solid rgba(248,101,104,1.00) ;  
+	     	   }
+			   
+	.totales   {
+	           background-color:dodgerblue;
+	           border: 1px solid rgba(70,133,245,1.00) ;  
+	     	   }
+			   
+	.reservasweb {
+	           
+			   background-color:burlywood;
+	           border: 1px solid rgba(212,212,212,1.00) ;  
+	     	     }
+	
+	.opediaria {
+	           background-color:rgba(243,69,12,0.99);
+	           border: 1px solid rgba(212,212,212,1.00) ;  
+	     	   }
+			   
+	.tours   {
+	           background-color:darkorange;
+			   border: 1px solid rgba(212,212,212,1.00) ; 
+			   
+	         }
+			 
+	.reservasoff {
+	           background-color:coral;
+	           border: 1px solid rgba(212,212,212,1.00) ;  
+	     	     }
+				 
+	.dashboard {
+	           
+			   background-color:rgba(72,71,233,0.92);
+	           border: 1px solid rgba(212,212,212,1.00) ;  
+	     	     }
+	  
+	  
+
+
+

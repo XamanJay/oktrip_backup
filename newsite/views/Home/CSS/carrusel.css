@@ -1,0 +1,181 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+*/
+body{
+    /*background-image: url(../../img/Reportes_Vtas/carrusel1/Fondoweb6.jpg);
+    background-position: center;
+    background-repeat: repeat;
+    background-size: 330vh;*/
+}
+
+
+nav.navbar {
+    /* 0jo este lo comento recientemente  background-color:#ffffff ; */
+   /* background-image: url(../../img/Reportes_Vtas/carrusel1/Fondoweb6.jpg);*/
+}
+
+
+/*
+h2{
+    text-align: center;
+    font-size: 40px;
+    font-family: arial;
+    margin-top: 80px;
+    color: aqua;
+    text-shadow: 0px 0px 6px black;
+}*/
+
+.content-all{
+    width: 210px;
+    margin: auto;
+    perspective: 600px; /*800px*/  
+    position: relative;
+    margin-top: 10px; /* 50 */
+}
+
+.content-carrousel{
+    width: 100%;
+    position: absolute;
+    animation: rotar 45s infinite linear;
+    transform-style: preserve-3d;
+}
+
+.content-carrousel:hover{
+    animation-play-state: paused;
+    cursor: pointer;
+}
+
+
+.content-carrousel figure{
+    width: 100%;
+    height: 100px;
+    overflow: hidden;
+    position: absolute;
+    box-shadow: 0px 0px 20px 0px black;
+    transition: all 300ms;
+    
+}
+
+.content-carrousel figure:hover{
+    box-shadow: 0px 0px 0px 0px black;
+    transition: all 300ms;
+}
+
+.content-carrousel figure:nth-child(1){transform: rotateY(0deg) translateZ(300px);}
+.content-carrousel figure:nth-child(2){transform: rotateY(40deg) translateZ(300px);}
+.content-carrousel figure:nth-child(3){transform: rotateY(80deg) translateZ(300px);}
+.content-carrousel figure:nth-child(4){transform: rotateY(120deg) translateZ(300px);}
+.content-carrousel figure:nth-child(5){transform: rotateY(160deg) translateZ(300px);}
+.content-carrousel figure:nth-child(6){transform: rotateY(200deg) translateZ(300px);}
+.content-carrousel figure:nth-child(7){transform: rotateY(240deg) translateZ(300px);}
+.content-carrousel figure:nth-child(8){transform: rotateY(280deg) translateZ(300px);}
+.content-carrousel figure:nth-child(9){transform: rotateY(320deg) translateZ(300px);}
+.content-carrousel figure:nth-child(10){transform: rotateY(360deg) translateZ(300px);}
+
+.content-carrousel img{
+    width: 100%;
+     height: 100px;
+    transition: all 300ms;
+}
+
+.content-carrousel img:hover{
+    transform: scale(1.2);
+    transition: all 300ms;
+}
+
+
+@keyframes rotar{
+    from{
+        transform: rotateY(0deg);
+    }to{
+        transform: rotateY(360deg);
+    }
+}
+
+
+
+
+
+/*=====================================================================================================================*/
+
+
+
+ /*footer */
+
+.footer-style {
+    padding-top: 50px;
+    background-color: #2C3E50;
+}
+footer {
+  color: white;
+}
+footer h3 {
+  margin-bottom: 30px;
+    font-weight: 800;
+}
+footer .footer-above {
+  padding-top: 50px;
+  background-color: #2C3E50;
+}
+footer .footer-col {
+  margin-bottom: 50px;
+}
+footer .footer-below {
+  padding: 25px 0;
+  background-color: #233140;
+}
+
+
+/*=====================================================================================================================*/
+
+/* Barra de Navegación Transparente con imagen de fondo*/
+.header {
+  background: url(../../img/IMAGENES_TOURS/navbar_02.jpg) no-repeat center;
+  background-size: cover;
+  /*min-height: 100vh;*/
+   
+ 
+
+   
+  
+}
+
+.header .navbar {
+  background-color: transparent !important;
+}
+
+
+h3 {
+  color: white; 
+  
+}
+
+
+
+h3.tomato {
+  color: tomato; 
+  
+}
+
+/*=====================================================================================================================*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+

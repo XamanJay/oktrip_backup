@@ -1,0 +1,70 @@
+---- Inicio de log ----
+<?xml version="1.0" encoding="ISO-8859-15" standalone='yes'?><CENTEROFPAYMENTS><reference>Hotel Adhara Cancun14168</reference><response>denied</response><foliocpagos>717848186</foliocpagos><auth/><cd_response>ND</cd_response><cd_error/><nb_error/><nb_company/><nb_merchant/><cc_type/><tp_operation/><cc_name/><cc_number>1111</cc_number><cc_expmonth>12</cc_expmonth><cc_expyear>21</cc_expyear><amount/><emv_key_date/><id_url>EJXB95XS</id_url><email>juan.alucard.02@gmail.com</email><st_cr>0</st_cr><cc_mask>411111XXXXXX1111</cc_mask><datos_adicionales><data id="1"><label>Nombre</label><value>Juan Pablo Gómez</value></data></datos_adicionales></CENTEROFPAYMENTS>
+<?xml version="1.0" encoding="ISO-8859-15" standalone='yes'?><CENTEROFPAYMENTS><reference>Hotel Adhara Cancun14171</reference><response>denied</response><foliocpagos>718295760</foliocpagos><auth/><cd_response>ND</cd_response><cd_error/><nb_error/><nb_company/><nb_merchant/><cc_type/><tp_operation/><cc_name/><cc_number>1111</cc_number><cc_expmonth>12</cc_expmonth><cc_expyear>21</cc_expyear><amount/><emv_key_date/><id_url>4D9ZWDD7</id_url><email>juan.alucard.02@gmail.com</email><st_cr>0</st_cr><cc_mask>411111XXXXXX1111</cc_mask><datos_adicionales><data id="1"><label>Nombre</label><value>Juan Pablo Gómez</value></data></datos_adicionales></CENTEROFPAYMENTS>
+<?xml version="1.0" encoding="ISO-8859-15" standalone='yes'?><CENTEROFPAYMENTS><reference>Hotel Adhara Cancun14172</reference><response>denied</response><foliocpagos>718296904</foliocpagos><auth/><cd_response>ND</cd_response><cd_error/><nb_error/><nb_company/><nb_merchant/><cc_type/><tp_operation/><cc_name/><cc_number>1111</cc_number><cc_expmonth>12</cc_expmonth><cc_expyear>21</cc_expyear><amount/><emv_key_date/><id_url>AZRIJJBX</id_url><email>juan.alucard.02@gmail.com</email><st_cr>0</st_cr><cc_mask>411111XXXXXX1111</cc_mask><datos_adicionales><data id="1"><label>Nombre</label><value>Juan Pablo Gómez</value></data></datos_adicionales></CENTEROFPAYMENTS>
+<?xml version="1.0" encoding="ISO-8859-15" standalone='yes'?><CENTEROFPAYMENTS><reference>Hotel Adhara Cancun14173</reference><response>denied</response><foliocpagos>718298531</foliocpagos><auth/><cd_response>ND</cd_response><cd_error/><nb_error/><nb_company/><nb_merchant/><cc_type/><tp_operation/><cc_name/><cc_number>1111</cc_number><cc_expmonth>12</cc_expmonth><cc_expyear>21</cc_expyear><amount/><emv_key_date/><id_url>3WC7RHXN</id_url><email>juan.alucard.02@gmail.com</email><st_cr>0</st_cr><cc_mask>411111XXXXXX1111</cc_mask><datos_adicionales><data id="1"><label>Nombre</label><value>Juan Pablo Gómez</value></data></datos_adicionales></CENTEROFPAYMENTS>
+<?xml version="1.0" encoding="ISO-8859-15" standalone='yes'?><CENTEROFPAYMENTS><reference>Hotel Adhara Cancun14174</reference><response>denied</response><foliocpagos>718299466</foliocpagos><auth/><cd_response>ND</cd_response><cd_error/><nb_error/><nb_company/><nb_merchant/><cc_type/><tp_operation/><cc_name/><cc_number>1111</cc_number><cc_expmonth>12</cc_expmonth><cc_expyear>21</cc_expyear><amount/><emv_key_date/><id_url>Z21NV0RX</id_url><email>juan.alucard.02@gmail.com</email><st_cr>0</st_cr><cc_mask>411111XXXXXX1111</cc_mask><datos_adicionales><data id="1"><label>Nombre</label><value>Juan Pablo Gómez</value></data></datos_adicionales></CENTEROFPAYMENTS>
+<?xml version="1.0" encoding="ISO-8859-15" standalone='yes'?><CENTEROFPAYMENTS><reference>Hotel Adhara Cancun14175</reference><response>approved</response><foliocpagos>718462574</foliocpagos><auth>652737</auth><cd_response>00</cd_response><cd_error/><nb_error/><time>09:45:45</time><date>10/07/2019</date><nb_company>ADHARA HACIENDA CANCUN</nb_company><nb_merchant>8155555 HOTEL ADHARA CANCUN WEB</nb_merchant><cc_type>CREDITO/BANCO INBURSA/MasterCard</cc_type><tp_operation>VENTA</tp_operation><cc_name/><cc_number>2276</cc_number><cc_expmonth>03</cc_expmonth><cc_expyear>22</cc_expyear><amount>1035.00</amount><emv_key_date/><id_url>71P6KRSN</id_url><email>juan.alucard.02@gmail.com</email><st_cr>0</st_cr><cc_mask>527333XXXXXX2276</cc_mask><datos_adicionales><data id="1"><label>Nombre</label><value>Juan Pablo  +++ PRUEBA ++++ Gómez</value></data></datos_adicionales></CENTEROFPAYMENTS>
+<?xml version="1.0" encoding="ISO-8859-15" standalone='yes'?><CENTEROFPAYMENTS><reference>Hotel Adhara Cancun14177</reference><response>approved</response><foliocpagos>718877456</foliocpagos><auth>090814</auth><cd_response>00</cd_response><cd_error/><nb_error/><time>09:39:08</time><date>11/07/2019</date><nb_company>ADHARA HACIENDA CANCUN</nb_company><nb_merchant>8155555 HOTEL ADHARA CANCUN WEB</nb_merchant><cc_type>CREDITO/SANTANDER/MasterCard</cc_type><tp_operation>VENTA</tp_operation><cc_name/><cc_number>1389</cc_number><cc_expmonth>06</cc_expmonth><cc_expyear>22</cc_expyear><amount>1386.00</amount><emv_key_date/><id_url>BO2OSCV5</id_url><email>juan.alucard.02@gmail.com</email><st_cr>0</st_cr><cc_mask>547157XXXXXX1389</cc_mask><datos_adicionales><data id="1"><label>Nombre</label><value>Juan Pablo Gómez</value></data></datos_adicionales></CENTEROFPAYMENTS>
+<?xml version="1.0" encoding="ISO-8859-15" standalone='yes'?><CENTEROFPAYMENTS><reference>Hotel Adhara Cancun14180</reference><response>denied</response><foliocpagos>718887513</foliocpagos><auth/><cd_response>ND</cd_response><cd_error/><nb_error/><nb_company/><nb_merchant/><cc_type/><tp_operation/><cc_name/><cc_number>1111</cc_number><cc_expmonth>04</cc_expmonth><cc_expyear>21</cc_expyear><amount/><emv_key_date/><id_url>I5ZOWGN2</id_url><email>juan.alucard.02@gmail.com</email><st_cr>0</st_cr><cc_mask>411111XXXXXX1111</cc_mask><datos_adicionales><data id="1"><label>Nombre</label><value>Juan Pablo Gómez</value></data></datos_adicionales></CENTEROFPAYMENTS>
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<CENTEROFPAYMENTS>
+  <reference>Hotel Adhara Cancun14181</reference>
+  <response>denied</response>
+  <foliocpagos/>
+  <auth/>
+  <cd_response>R03</cd_response>
+  <cd_error/>
+  <nb_error>La tarjeta no pudo ser autenticada en 3DS.</nb_error>
+  <nb_company/>
+  <nb_merchant/>
+  <cc_type/>
+  <tp_operation/>
+  <cc_name/>
+  <cc_number>1111</cc_number>
+  <cc_expmonth>06</cc_expmonth>
+  <cc_expyear>21</cc_expyear>
+  <amount/>
+  <emv_key_date/>
+  <id_url>8MZWC3D7</id_url>
+  <email>juan.alucard.02@gmail.com</email>
+  <datos_adicionales>
+    <data id="1">
+      <label>Nombre</label>
+      <value>Juan Pablo Gómez</value>
+    </data>
+  </datos_adicionales>
+</CENTEROFPAYMENTS>
+
+<?xml version="1.0" encoding="ISO-8859-15" standalone='yes'?><CENTEROFPAYMENTS><reference>Hotel Adhara Cancun14182</reference><response>denied</response><foliocpagos>718896383</foliocpagos><auth/><cd_response>ND</cd_response><cd_error/><nb_error/><nb_company/><nb_merchant/><cc_type/><tp_operation/><cc_name/><cc_number>1111</cc_number><cc_expmonth>06</cc_expmonth><cc_expyear>21</cc_expyear><amount/><emv_key_date/><id_url>V906DVAG</id_url><email>juan.alucard.02@gmail.com</email><st_cr>0</st_cr><cc_mask>411111XXXXXX1111</cc_mask><datos_adicionales><data id="1"><label>Nombre</label><value>Juan Pablo Gómez</value></data></datos_adicionales></CENTEROFPAYMENTS>
+<?xml version="1.0" encoding="ISO-8859-15" standalone='yes'?><CENTEROFPAYMENTS><reference>TEST_MIT</reference><response>approved</response><foliocpagos>718898250</foliocpagos><auth>360634</auth><cd_response>00</cd_response><cd_error/><nb_error/><time>10:33:47</time><date>11/07/2019</date><nb_company>ADHARA HACIENDA CANCUN</nb_company><nb_merchant>8155555 HOTEL ADHARA CANCUN WEB</nb_merchant><cc_type>DEBITO/BANCO AZTECA/Visa</cc_type><tp_operation>VENTA</tp_operation><cc_name/><cc_number>3875</cc_number><cc_expmonth>10</cc_expmonth><cc_expyear>20</cc_expyear><amount>0.01</amount><emv_key_date/><id_url>JQAAN191</id_url><email/><st_cr>0</st_cr><cc_mask>402766XXXXXX3875</cc_mask><datos_adicionales/></CENTEROFPAYMENTS>
+<?xml version="1.0" encoding="ISO-8859-15" standalone='yes'?><CENTEROFPAYMENTS><reference>Hotel Adhara Cancun14201</reference><response>denied</response><foliocpagos>719385141</foliocpagos><auth/><cd_response>ND</cd_response><cd_error/><nb_error/><nb_company/><nb_merchant/><cc_type/><tp_operation/><cc_name/><cc_number>1111</cc_number><cc_expmonth>10</cc_expmonth><cc_expyear>21</cc_expyear><amount/><emv_key_date/><id_url>LX7LN4CQ</id_url><email>juan.alucard.02@gmail.com</email><st_cr>0</st_cr><cc_mask>411111XXXXXX1111</cc_mask><datos_adicionales><data id="1"><label>Nombre</label><value>Juan Pablo Gómez</value></data></datos_adicionales></CENTEROFPAYMENTS>
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<CENTEROFPAYMENTS>
+  <reference>Hotel Adhara Cancun14204</reference>
+  <response>denied</response>
+  <foliocpagos/>
+  <auth/>
+  <cd_response>R03</cd_response>
+  <cd_error/>
+  <nb_error>La tarjeta no pudo ser autenticada en 3DS.</nb_error>
+  <nb_company/>
+  <nb_merchant/>
+  <cc_type/>
+  <tp_operation/>
+  <cc_name/>
+  <cc_number>0364</cc_number>
+  <cc_expmonth>09</cc_expmonth>
+  <cc_expyear>19</cc_expyear>
+  <amount/>
+  <emv_key_date/>
+  <id_url>CRFZ6XEN</id_url>
+  <email>mariomonsreal@gmail.com</email>
+  <datos_adicionales>
+    <data id="1">
+      <label>Nombre</label>
+      <value>Mario Monsreal Uh.</value>
+    </data>
+  </datos_adicionales>
+</CENTEROFPAYMENTS>
+

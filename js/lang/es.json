@@ -1,0 +1,31 @@
+{
+	"searcher": {
+		"kids": "Niños",
+		"adults": "Adultos",
+		"ageKid": "Edad niño",
+		"age": "Edad",
+		"room": "Habitación",
+		"rooms": "Habitaciones",
+		"MessagesValidation":
+		{
+			"from": "La fecha de entrada es requerida",
+			"to": "La fecha de salida es requerida",
+			"rooms": "Número de cuartos es requerido",
+			"adults": ["'Adultos' es requerido","Mínimo: 1","Adultos máximo: 3"],
+			"kids": ["'Niños' es requerido","Mínimo: 1","Niños máximo: 3"],
+			"ages": ["'Edad' requerida","Mínimo: 1","Máximo: 17"]
+		}
+	},
+	"contact":
+	{
+		"MessagesValidation":
+		{
+			"name": ["'Nombre' es requerido"],
+			"city": ["'Ciudad' es requerido"],
+			"country": ["'País' es requerido"],
+			"email": ["'Correo electrónico' es requerido", "Introduce un correo válido"],
+			"phone": ["'Teléfono' es requerido"],
+			"message": ["'Mensaje' es requerido"]
+		}
+	}
+}

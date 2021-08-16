@@ -1,0 +1,165 @@
+/*Body {background-color:lightsteelblue;margin:0px;FONT-FAMILY:verdana, arial, helvetica, sans-serif;COLOR:#000033;FONT-SIZE:10px;letter-spacing:;} */
+Table {background-color:;padding:0px;margin:0px;width:100%;align:;float:;border-collapse:collapse;} 
+P, TD, DIV {background-color:;margin:0px;COLOR:#000000;FONT-SIZE:13px;vertical-align:top;padding:1px;} 
+/*H3, A.H3, A.H3:link, A.H3:visited {FONT-FAMILY:verdana, arial, helvetica, sans-serif;COLOR:#111111;FONT-SIZE:14px;font-weight:900;TEXT-DECORATION:none;} 
+H4, A.H4, A.H4:link, A.H4:visited {FONT-FAMILY:verdana, arial, helvetica, sans-serif;COLOR:#111111;FONT-SIZE:12px;font-weight:500;TEXT-DECORATION:none;} 
+A {FONT-FAMILY:verdana, arial, helvetica, sans-serif;TEXT-DECORATION:underline;FONT-SIZE:;COLOR:#000099;font-weight:;letter-spacing:;} */
+/*A:active {TEXT-DECORATION:underline;COLOR:#000033;} 
+A:visited {TEXT-DECORATION:underline;COLOR:#000099;} 
+A:link {TEXT-DECORATION:underline;COLOR:#000099;} 
+A:hover {TEXT-DECORATION:none;COLOR:#000066;} */
+/*.HeaderFont {FONT-FAMILY:verdana, arial, helvetica, sans-serif;color:#FFFFFF;font-weight:500;letter-spacing:0px;} 
+.HeaderFont:visited {TEXT-DECORATION:underline;COLOR:#FEFEFE;} 
+.HeaderFont:link {TEXT-DECORATION:underline;COLOR:#FEFEFE;} 
+.HeaderFont:hover {TEXT-DECORATION:none;COLOR:#FFFFFF;} */
+.HeaderTable                {background-color:#c6c6c6;padding:0px;margin:0px;border-width:0px;border-left-color:#EEEEEE;border-top-color:#EEEEEE;border-right-color:#333333;border-bottom-color:#333333;border-style:solid;border-collapse:collapse;} 
+.HeaderTablecentrado {background-color:#c6c6c6;text-align:center; font-size:14px; font-weight: bold;padding:0px;margin:0px;border-width:0px;border-left-color:#EEEEEE;border-top-color:#EEEEEE;border-right-color:#333333;border-bottom-color:#333333;border-style:solid;border-collapse:collapse;} 
+.HeaderTablecentrado2020 {background-color:#E55451;text-align:center; font-size:14px; font-weight: bold;padding:0px;margin:0px;border-width:0px;border-left-color:#EEEEEE;border-top-color:#EEEEEE;border-right-color:#333333;border-bottom-color:#333333;border-style:solid;border-collapse:collapse;} 
+.HeaderTD {background-color:#3CA0BD;color:#EFEFEF;font-size:14px;padding:2px;text-align:;vertical-align:;border:2px groove #99CCFF;} 
+
+.LabelTDOriginal {background-color:#136F9F;padding:1px;text-align:;vertical-align:top;border:2px groove #EFEFEF;}
+.LabelTD {background-color:#136F9F;color:#EFEFEF;font-size:14px;padding:2px;text-align:center;vertical-align:top;border:2px groove #EFEFEF; border-left-color:#EEEEEE;border-top-color:#EEEEEE;border-right-color:#333333;border-bottom-color:#333333;border-style:solid;border-collapse:collapse; }
+.CENTRADO {text-align: center; font-size: 14px; font-weight: bold;}
+.CENTRADO_TOT {text-align: center; font-size: 15px; font-weight: bold;}
+/*.LabelFont {font-size:;color:#555555;font-weight:500;} 
+.LabelFont:visited {TEXT-DECORATION:none;COLOR:#CCCCCC;} 
+.LabelFont:link {TEXT-DECORATION:none;COLOR:#CCCCCC;} 
+.LabelFont:hover {TEXT-DECORATION:none;COLOR:#FFFFFF;} */
+.Imprimir {color-adjust: exact;} 
+.DataTD {background-color:#EFEFEF;font-size:14px;padding:2px;border:1px solid #DEDEDE;} 
+.DataTDover         {background-color:#DEDEDE;padding:2px;border:1px groove #FEFEFE;  } 
+.DataPrint {background-color:#DEDEDE;padding:2px;border:1px groove #FEFEFE;  } 
+
+
+.HeaderTablecentrado {background-color:#c6c6c6;text-align:center; font-size:14px; font-weight: bold;padding:0px;margin:0px;border-width:0px;border-left-color:#EEEEEE;border-top-color:#EEEEEE;border-right-color:#333333;border-bottom-color:#333333;border-style:solid;border-collapse:collapse;} 
+
+.FondoPrint {  border: solid 7px  #919191;   vertical-align:top; padding:1px;  border-right-width: 1px;      border-left-width: 1px;  border-style:solid;  } 
+.LabelPrint { position:relative;}
+/*#my-bg {
+  width: 0;
+  height: 0;
+  border: solid 100px skyblue;
+  position: absolute;
+}
+#my-text {
+  position: relative;
+}*/
+
+
+
+.DataFont {font-size:;color:#0000CC;} 
+.DataFont:visited {TEXT-DECORATION:none;COLOR:#000099;} 
+.DataFont:link {TEXT-DECORATION:none;COLOR:#000066;} 
+.DataFont:hover {TEXT-DECORATION:none;COLOR:#0000FF;} 
+.FieldTD                {background-color:#3CA0BD; padding:2px; vertical-align:top; text-align:;border:2px groove #99CCFF;} 
+.FieldTDcentrado {background-color:#3CA0BD; padding:2px; vertical-align:top; text-align:center; font-size:14px; font-weight: bold; border:2px groove #99CCFF;} 
+.FieldTDcentrado2020 {background-color:seagreen; padding:2px; vertical-align:top; text-align:center; font-size:14px; font-weight: bold; border:2px groove #99CCFF;} 
+
+.FieldTDBlue {background-color:#136F9F;color:#EFEFEF;font-size:13px;padding:2px;vertical-align:top;text-align:;border:1px groove #EFEFEF;} 
+
+.FieldTDD {background-color:#DEDEDE;padding:2px;vertical-align:top;text-align:;border:2px groove #99CCFF;} 
+
+.HeaderTDCherry {background-color:#6D0608 ; color:#EFEFEF; font-size:14px;padding:2px;text-align:;vertical-align:;border:2px groove #99CCFF;} 
+.HeaderTDDarkgrey {background-color:#25383C ; color:#EFEFEF; font-size:14px;padding:2px;text-align:;vertical-align:;border:2px groove #99CCFF;} 
+.HeaderTDBluegray {background-color:#98AFC7 ; color:#EFEFEF; font-size:14px;padding:2px;text-align:;vertical-align:;border:2px groove #99CCFF;} 
+.HeaderTDBluejay {background-color:#2B547E ; color:#EFEFEF; font-size:14px;padding:2px;text-align:;vertical-align:;border:2px groove #99CCFF;} 
+.HeaderTDEarthblue {background-color:#0000A0 ; color:#EFEFEF; font-size:14px;padding:2px;text-align:;vertical-align:;border:2px groove #99CCFF;} 
+.HeaderTDBluelotus {background-color:#6960EC ; color:#EFEFEF; font-size:14px;padding:2px;text-align:;vertical-align:;border:2px groove #99CCFF;} 
+.HeaderTDBlueivy {background-color:#3090C7 ; color:#EFEFEF; font-size:14px;padding:2px;text-align:;vertical-align:;border:2px groove #99CCFF;} 
+.HeaderTDButterflyblue {background-color:#38ACEC ; color:#EFEFEF; font-size:14px;padding:2px;text-align:;vertical-align:;border:2px groove #99CCFF;} 
+.HeaderTDAqua {background-color:#293DD5 ; color:#EFEFEF; font-size:14px;padding:2px;text-align:;vertical-align:;border:2px groove #99CCFF;} 
+.HeaderTDVenomgreen {background-color:#728C00 ; color:#EFEFEF; font-size:14px;padding:2px;text-align:;vertical-align:;border:2px groove #99CCFF;} 
+.HeaderTDYellowgreen {background-color:#52D017 ; color:#EFEFEF; font-size:14px;padding:2px;text-align:;vertical-align:;border:2px groove #99CCFF;} 
+.HeaderTDOrangesalmon {background-color:#C47451 ; color:#EFEFEF; font-size:14px;padding:2px;text-align:;vertical-align:;border:2px groove #99CCFF;} 
+.HeaderTDPapayaorange {background-color:#E56717 ; color:#EFEFEF; font-size:14px;padding:2px;text-align:;vertical-align:;border:2px groove #99CCFF;} 
+.HeaderTDValentineday {background-color:#E55451 ; color:#EFEFEF; font-size:14px;padding:2px;text-align:;vertical-align:;border:2px groove #99CCFF;} 
+.HeaderTDburlywood1   {background-color:burlywood; color:black;  font-size:14px; padding:2px; text-align:; vertical-align:middle; border:medium groove #99CCFF;}
+.HeaderTDcrimson1     {background-color:crimson;   color:cornsilk;font-size:14px; padding:2px; text-align:; vertical-align:middle; border:medium groove #99CCFF;}
+
+
+
+
+.HeaderTDslategray         {background-color:slategray;            color:snow;             font-size:14px; padding:2px; text-align:center; vertical-align:middle; border:medium groove #99CCFF;}
+.HeaderTDaquamarine        {background-color:aquamarine;           color:beige;            font-size:14px; padding:2px; text-align:center; vertical-align:middle; border:medium groove #99CCFF;}
+.HeaderTDcoral             {background-color:coral;                color:azure;            font-size:14px; padding:2px; text-aiign:center; vertical-align:middle; border:medium groove #99CCFF;}
+.HeaderTDindianred         {background-color:indianred;            color:aliceblue;        font-size:14px; padding:2px; text-align:center; vertical-align:middle; border:medium groove #99CCFF;}
+.HeaderTDgold              {background-color:gold;                 color:black;            font-size:14px; padding:2px; text-align:center; vertical-align:middle; border:medium groove #99CCFF;}
+.HeaderTDdodgerblue        {background-color:dodgerblue;           color:bisque;           font-size:14px; padding:2px; text-align:center; vertical-align:middle; border:medium groove #99CCFF;}
+.HeaderTDrosybrown         {background-color:rosybrown;            color:antiquewhite;     font-size:14px; padding:2px; text-align:center; vertical-align:middle; border:medium groove #99CCFF;}
+.HeaderTDforestgreen       {background-color:forestgreen;          color:blanchedalmond;   font-size:14px; padding:2px; text-align:center; vertical-align:middle; border:medium groove #99CCFF;}
+.HeaderTDdarkslategray     {background-color:darkslategray;        color:burlywood;        font-size:14px; padding:2px; text-align:center; vertical-align:middle; border:medium groove #99CCFF;}
+.HeaderTDorangered         {background-color:orangered;            color:ivory;            font-size:14px; padding:2px; text-align:center; vertical-align:middle; border:medium groove #99CCFF;}
+.HeaderTDtomato            {background-color:tomato;               color:whitesmoke;       font-size:14px; padding:2px; text-align:center; vertical-align:middle; border:medium groove #99CCFF;}
+.HeaderTDmediumslateblue   {background-color:mediumslateblue;      color:seashell;         font-size:14px; padding:2px; text-align:center; vertical-align:middle; border:medium groove #99CCFF;}
+.HeaderTDdarked            {background-color:darkred;              color:silver;           font-size:14px; padding:2px; text-align:center; vertical-align:middle; border:medium groove #99CCFF;}
+.HeaderTDspringgreen       {background-color:springgreen;          color:snow;             font-size:14px; padding:2px; text-align:center; vertical-align:middle; border:medium groove #99CCFF;}
+.HeaderTDcadetblue         {background-color:cadetblue;            color:indianred;        font-size:14px; padding:2px; text-align:center; vertical-align:middle; border:medium groove #99CCFF;}    
+.HeaderTDcerodefd          {background-color:#0DEFDD;              color:#000000;          font-size:14px; padding:2px; text-align:center; vertical-align:middle; border:medium groove #99CCFF;}
+.HeaderTDalfa              {background-color:rgba(243,69,12,0.62); color:#000000;          font-size:14px; padding:2px; text-align:center; vertical-align:middle; border:medium groove #99CCFF;}
+.HeaderTDpurple            {background-color:rgba(72,71,233,0.92); color:snow;             font-size:14px; padding:2px; text-align:center; vertical-align:middle; border:medium groove #99CCFF;}                
+.HeaderTDsteelblue         {background-color:steelblue;            color:ghostwhite;       font-size:14px; padding:2px; text-align:center; vertical-align:middle; border:medium groove #99CCFF;}
+.HeaderTDblack             {background-color:black;                color:floralwhite;      font-size:14px; padding:2px; text-align:center; vertical-align:middle; border:medium groove #99CCFF;}
+.HeaderTDteal              {background-color:teal;                 color:cornsilk;         font-size:14px; padding:2px; text-align:center; vertical-align:middle; border:medium groove #99CCFF;}
+.HeaderTDsaddlebrown       {background-color:saddlebrown;          color:lime;             font-size:14px; padding:2px; text-align:center; vertical-align:middle; border:medium groove #99CCFF;}  
+.HeaderTDcrimson           {background-color:crimson;              color:cornsilk;         font-size:14px; padding:2px; text-align:center; vertical-align:middle; border:medium groove #99CCFF;}
+.HeaderTDperu              {background-color:peru;                 color:azure;            font-size:14px; padding:2px; text-align:center; vertical-align:middle; border:medium groove #99CCFF;}     
+.HeaderTDdarkslategray     {background-color:darkslategray;        color:floralwhite;      font-size:14px; padding:2px; text-align:center; vertical-align:middle; border:medium groove #99CCFF;}
+.HeaderTDburlywood         {background-color:burlywood;            color:black;            font-size:14px; padding:2px; text-align:center; vertical-align:middle; border:medium groove #99CCFF;}
+.HeaderTDlinen             {background-color:royalblue;            color:black;            font-size:14px; padding:2px; text-align:center; vertical-align:middle; border:medium groove #99CCFF;}
+.HeaderTDmediumseagreen    {background-color:mediumseagreen; }
+.HeaderTDlimegreen         {background-color:limegreen;}
+.HeaderTDpalegreen         {background-color:palegreen;}
+.HeaderTDseagreen          {background-color:seagreen;}
+
+
+
+.HeaderTDmatrix            {background-image:url("../img/fondos/fondo-matrix.jpg");   color:azure;     font-size:14px; padding:2px; text-align:center; vertical-align:middle; border:medium groove #99CCFF;}
+.HeaderTDfondo             {background-image:url("../img/fondos/fondo.jpg");          color:black;     font-size:14px; padding:2px; text-align:center; vertical-align:middle; border:medium groove #99CCFF;}
+.HeaderTDweb1              {background-image:url("../img/fondos/Fondoweb1.jpg");      color:black;     font-size:14px; padding:2px; text-align:center; vertical-align:middle; border:medium groove #99CCFF;}
+.HeaderTDweb3              {background-image:url("../img/fondos/Fondoweb3.jpg");      color:black;     font-size:14px; padding:2px; text-align:center; vertical-align:middle; border:medium groove #99CCFF;}
+.HeaderTDweb4              {background-image:url("../img/fondos/Fondoweb4.jpg");      color:black;     font-size:14px; padding:2px; text-align:center; vertical-align:middle; border:medium groove #99CCFF;}   
+.HeaderTDweb5              {background-image:url("../img/fondos/Fondoweb5.jpg");      color:black;     font-size:14px; padding:2px; text-align:center; vertical-align:middle; border:medium groove #99CCFF;}
+.HeaderTDimg1              {background-image:url("../img/fondos/img1.jpg");           color:aliceblue; font-size:14px; padding:2px; text-align:center; vertical-align:middle; border:medium groove #99CCFF;}
+.HeaderTDimg2              {background-image:url("../img/fondos/img2.jpg");           color:aliceblue; font-size:14px; padding:2px; text-align:center; vertical-align:middle; border:medium groove #99CCFF;}
+.HeaderTDimg3              {background-image:url("../img/fondos/img3.jpg");           color:black;     font-size:14px; padding:2px; text-align:center; vertical-align:middle; border:medium groove #99CCFF;}
+.HeaderTDimg4              {background-image:url("../img/fondos/img4.jpg");           color:aliceblue; font-size:14px; padding:2px; text-align:center; vertical-align:middle; border:medium groove #99CCFF;}
+.HeaderTDimg5              {background-image:url("../img/fondos/img5.jpg");           color:black;     font-size:14px; padding:2px; text-align:center; vertical-align:middle; border:medium groove #99CCFF;}
+.HeaderTDimg6              {background-image:url("../img/fondos/img6.jpg");           color:black;     font-size:14px; padding:2px; text-align:center; vertical-align:middle; border:medium groove #99CCFF;}
+.HeaderTDimg7              {background-image:url("../img/fondos/img7.jpg");           color:aliceblue; font-size:14px; padding:2px; text-align:center; vertical-align:middle; border:medium groove #99CCFF;}
+.HeaderTDimg8              {background-image:url("../img/fondos/img8.jpg");           color:aliceblue; font-size:14px; padding:2px; text-align:center; vertical-align:middle; border:medium groove #99CCFF;}
+.HeaderTDimg9              {background-image:url("../img/fondos/img9.jpg");           color:black;     font-size:14px; padding:2px; text-align:center; vertical-align:middle; border:medium groove #99CCFF;}
+.HeaderTDmaderabrillante01 {background-image:url("../img/fondos/MaderaBrillante01.PNG");           color:black;     font-size:14px; padding:2px; text-align:center; vertical-align:middle; border:medium groove #99CCFF;}
+.HeaderTDCaoba             {background-image:url("../img/fondos/Caoba.PNG");                       color:aliceblue; font-size:14px; padding:2px; text-align:center; vertical-align:middle; border:medium groove #99CCFF;}  
+.HeaderTDMaderaAzul        {background-image:url("../img/fondos/MaderaAzul.PNG");                  color:aliceblue; font-size:14px; padding:2px; text-align:center; vertical-align:middle; border:medium groove #99CCFF;}   
+.HeaderAzulbrillante       {background-image:url("../img/fondos/MaderaAzulBrillante.PNG");         color:black;     font-size:14px; padding:2px; text-align:center; vertical-align:middle; border:medium groove #99CCFF;}
+.HeaderMaderaAmarilla      {background-image:url("../img/fondos/MaderaBrillante.PNG");             color:black;     font-size:14px; padding:2px; text-align:center; vertical-align:middle; border:medium groove #99CCFF;}
+.HeaderMaderaPurpura       {background-image:url("../img/fondos/MaderaBrillantePurpura.PNG");      color:black;     font-size:14px; padding:2px; text-align:center; vertical-align:middle; border:medium groove #99CCFF;}
+.HeaderVerdeBrillante      {background-image:url("../img/fondos/MaderaVerdeBrillante.PNG");        color:black;     font-size:14px; padding:2px; text-align:center; vertical-align:middle; border:medium groove #99CCFF;}
+.HeaderPisoDuela           {background-image:url("../img/fondos/PisoMadera.PNG");                  color:black;     font-size:14px; padding:2px; text-align:center; vertical-align:middle; border:medium groove #99CCFF;}
+
+/*
+.FieldFont {font-size:;color:#EEEEEE;font-weight:700;} 
+.FieldFont:visited {TEXT-DECORATION:none;COLOR:#EEEEEE;} 
+.FieldFont:link {TEXT-DECORATION:none;COLOR:#EEEEEE;} 
+.FieldFont:hover {TEXT-DECORATION:none;COLOR:#FFFFFF;} 
+.MenuTable {background-color:#3CA0BD;padding:0px;margin:0px;border:2px groove #99CCFF;} 
+.MenuHeaderTD {background-color:#3CA0BD;padding:1px;font-size:13pt;color:#000000;font-weight:800;text-align:;} 
+.MenuTD {background-color:;color:#330000;padding:3px;margin:2px;text-align:center;vertical-align:;} 
+.MenuFont {FONT-FAMILY:verdana, arial, helvetica, sans-serif;font-size:11px;color:#FFFFFF;font-weight:500;letter-spacing:1px;} 
+.MenuFont:visited {TEXT-DECORATION:none;color:#FEFEFE;font-weight:500;} 
+.MenuFont:link {TEXT-DECORATION:none;color:#FFFFFF;font-weight:500;} 
+.MenuFont:hover {TEXT-DECORATION:underline;color:#FFFFFF;font-weight:500;} */
+/*.GroupTD {background-color:#FCFCFC;padding:2px;vertical-align:top;text-align:;font-size:12px;font-weight:800;color:#999999;border:1px solid #FEFEFE} 
+.MsgTD {background-color:#FFFFFF;padding:2px;vertical-align:top;text-align:;} 
+.MsgFont {FONT-FAMILY:;font-size:8pt;color:#000000;font-weight:300;padding:2px;} 
+.ErrTD {background-color:#FFFFFF;padding:2px;vertical-align:top;text-align:;} 
+.ErrFont {FONT-FAMILY:;font-size:8pt;color:#000000;font-weight:300;padding:2px;} */
+Select {FONT-FAMILY:verdana, arial, helvetica, sans-serif;FONT-SIZE:13px;COLOR:#ffffff;BACKGROUND-COLOR:#3CA0BD;} 
+Input {FONT-FAMILY:verdana, arial, helvetica, sans-serif;FONT-SIZE:12px;COLOR:#e9e9e9;BACKGROUND-COLOR:#3CA0BD;} 
+Textarea {FONT-FAMILY:verdana, arial, helvetica, sans-serif;FONT-SIZE:13px;COLOR:#ffffff;BACKGROUND-COLOR:#3CA0BD;}
+.cmd {FONT-FAMILY:verdana, arial, helvetica, sans-serif;FONT-SIZE:13px;COLOR:#ffffff;BACKGROUND-COLOR:#3CA0BD;} 
+.radio {FONT-FAMILY:verdana, arial, helvetica, sans-serif;FONT-SIZE:11px;COLOR:#ffffff;BACKGROUND-COLOR:#3CA0BD;} 
+
+.content  {
+    -webkit-print-color-adjust: exact;  color-adjust: exact;
+}

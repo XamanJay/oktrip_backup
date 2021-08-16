@@ -1,0 +1,67 @@
+---- Inicio de log ----
+
+
+------ 2019-07-08 17:06:19 --------
+
+{} - Fecha: 2019-07-08 17:06:19
+
+
+
+------ 2019-07-08 17:10:56 --------
+
+{} - Fecha: 2019-07-08 17:10:56
+
+
+
+------ 2019-07-08 17:13:34 --------
+
+{} - Fecha: 2019-07-08 17:13:34
+
+
+
+------ 2019-07-08 17:34:38 --------
+
+{} - Fecha: 2019-07-08 17:34:38
+
+
+
+------ 2019-07-08 17:38:03 --------
+
+"<?xml version=\"1.0\" encoding=\"ISO-8859-15\" standalone='yes'?><CENTEROFPAYMENTS><reference>Hotel Adhara Cancun14168<\/reference><response>denied<\/response><foliocpagos>717848186<\/foliocpagos><auth\/><cd_response>ND<\/cd_response><cd_error\/><nb_error\/><nb_company\/><nb_merchant\/><cc_type\/><tp_operation\/><cc_name\/><cc_number>1111<\/cc_number><cc_expmonth>12<\/cc_expmonth><cc_expyear>21<\/cc_expyear><amount\/><emv_key_date\/><id_url>EJXB95XS<\/id_url><email>juan.alucard.02@gmail.com<\/email><st_cr>0<\/st_cr><cc_mask>411111XXXXXX1111<\/cc_mask><datos_adicionales><data id=\"1\"><label>Nombre<\/label><value>Juan Pablo G\u00f3mez<\/value><\/data><\/datos_adicionales><\/CENTEROFPAYMENTS>" - Fecha: 2019-07-08 17:38:03
+
+
+
+------ 2019-07-08 17:38:03 --------
+
+"<?xml version=\"1.0\" encoding=\"ISO-8859-15\" standalone='yes'?><CENTEROFPAYMENTS><reference>Hotel Adhara Cancun14168<\/reference><response>denied<\/response><foliocpagos>717848186<\/foliocpagos><auth\/><cd_response>ND<\/cd_response><cd_error\/><nb_error\/><nb_company\/><nb_merchant\/><cc_type\/><tp_operation\/><cc_name\/><cc_number>1111<\/cc_number><cc_expmonth>12<\/cc_expmonth><cc_expyear>21<\/cc_expyear><amount\/><emv_key_date\/><id_url>EJXB95XS<\/id_url><email>juan.alucard.02@gmail.com<\/email><st_cr>0<\/st_cr><cc_mask>411111XXXXXX1111<\/cc_mask><datos_adicionales><data id=\"1\"><label>Nombre<\/label><value>Juan Pablo G\u00f3mez<\/value><\/data><\/datos_adicionales><\/CENTEROFPAYMENTS>" - Fecha: 2019-07-08 17:38:03
+
+
+
+------ 2019-07-09 18:15:17 --------
+
+{} - Fecha: 2019-07-09 18:15:17
+
+
+
+------ 2019-07-09 18:16:40 --------
+
+{"errorInfo":["23000",1048,"Column 'updated_at' cannot be null"]} - Fecha: 2019-07-09 18:16:40
+
+Error Fatal - Fecha: 2019-07-09 18:18:52
+exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'tp_operation' in 'field list'' in /home/ooktrip/public_html/controllers/HotelsController.php:1583
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelsController.php(1583): PDOStatement->execute()
+#1 [internal function]: HotelsController->postRequest()
+#2 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#3 /home/ooktrip/public_html/index.php(90): Phroute\Phroute\Dispatcher->dispatch('POST', '/hoteles/reques...')
+#4 {main}
+Error Fatal - Fecha: 2019-07-09 18:21:57
+exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'cc_number' cannot be null' in /home/ooktrip/public_html/controllers/HotelsController.php:1583
+Stack trace:
+#0 /home/ooktrip/public_html/controllers/HotelsController.php(1583): PDOStatement->execute()
+#1 [internal function]: HotelsController->postRequest()
+#2 /home/ooktrip/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#3 /home/ooktrip/public_html/index.php(90): Phroute\Phroute\Dispatcher->dispatch('POST', '/hoteles/reques...')
+#4 {main}
+Error al cambiar de estatus la reserva ->aprobada - Fecha: 2019-07-11 10:33:53
+

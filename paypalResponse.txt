@@ -1,0 +1,5 @@
+
+
+--------------- Respuesta de una transaccion Paypal 2018/03/08--------------
+
+payment_type=instantpayment_date=Thu%20Mar%2008%202018%2011%3A36%3A17%20GMT-0600%20%28Hora%20est%E1ndar%20central%20%28M%E9xico%29%29payment_status=Completedaddress_status=confirmedpayer_status=verifiedfirst_name=Johnlast_name=Smithpayer_email=buyer@paypalsandbox.compayer_id=TESTBUYERID01address_name=John%20Smithaddress_country=United%20Statesaddress_country_code=USaddress_zip=95131address_state=CAaddress_city=San%20Joseaddress_street=123%20any%20streetbusiness=seller@paypalsandbox.comreceiver_email=seller@paypalsandbox.comreceiver_id=seller@paypalsandbox.comresidence_country=USitem_name1=somethingitem_number1=AK-1234tax=2.02mc_currency=USDmc_fee=0.44mc_gross=12.34mc_gross_1=12.34mc_handling=2.06mc_handling1=1.67mc_shipping=3.02mc_shipping1=1.02txn_type=carttxn_id=682963936notify_version=2.1custom=xyz123invoice=abc1234test_ipn=1verify_sign=APclMDPdWaSSAOtbaJrWk-DEAcR8AP8YIgTfxqGZkLz7SaWBsEVVspVw

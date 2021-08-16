@@ -1,0 +1,45 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>My first Vue app</title>
+  <script src="https://unpkg.com/vue"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vue@2/dist/vue.js"></script>
+</head>
+
+<body>
+  <div id="app">
+    {{ message }}
+  </div>
+
+  <div id="appp">
+    <p>{{ messagee }}</p>
+    <input v-model="messagee">
+  </div>
+
+
+
+
+  <script>
+    var app = new Vue({
+      el: '#app',
+      data: {
+        message: 'Hello Vue!'
+      }
+    })
+
+
+    var appp = new Vue({
+      el: '#appp',
+      data: {
+        messagee: 'Hello vue reactive!'
+      }
+    })
+
+
+
+  </script>
+</body>
+
+</html>
